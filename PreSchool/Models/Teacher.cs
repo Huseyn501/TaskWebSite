@@ -10,5 +10,7 @@ namespace PreSchool.Models
         public string? imageUrl { get; set; }
         [NotMapped]
         public IFormFile? Image { get; set; }
+
+        //public int anarAge { get; set; }
     }
 }

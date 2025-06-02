@@ -35658,12 +35658,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\scss\bootstrap\scss\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\18448300-90d7-4e87-a0e4-57ed233f1f54geralt.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\2530b2dc-f530-48b8-a2d7-f9f712e2d469geralt.png'))">
       <SourceType>Package</SourceType>
       <SourceId>PreSchool</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/18448300-90d7-4e87-a0e4-57ed233f1f54geralt.png</RelativePath>
+      <RelativePath>Upload/2530b2dc-f530-48b8-a2d7-f9f712e2d469geralt.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -35674,115 +35674,7 @@
       <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\18448300-90d7-4e87-a0e4-57ed233f1f54geralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\39d3f5fd-f1ce-47b6-ab32-5c294c1f1bfcgeralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/39d3f5fd-f1ce-47b6-ab32-5c294c1f1bfcgeralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\39d3f5fd-f1ce-47b6-ab32-5c294c1f1bfcgeralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\4d63c553-a690-415d-856d-6d00ff169f1egeralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/4d63c553-a690-415d-856d-6d00ff169f1egeralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\4d63c553-a690-415d-856d-6d00ff169f1egeralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\5aed709f-e5b2-4187-97b3-c40b1106cbd0geralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/5aed709f-e5b2-4187-97b3-c40b1106cbd0geralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\5aed709f-e5b2-4187-97b3-c40b1106cbd0geralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\dd0a4e3f-7846-426c-abba-d7cab5ddeec4geralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/dd0a4e3f-7846-426c-abba-d7cab5ddeec4geralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\dd0a4e3f-7846-426c-abba-d7cab5ddeec4geralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\f1f35aff-06ce-49bd-90f6-d1089939a3c9geralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/f1f35aff-06ce-49bd-90f6-d1089939a3c9geralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\f1f35aff-06ce-49bd-90f6-d1089939a3c9geralt.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\geralt.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>PreSchool</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/PreSchool</BasePath>
-      <RelativePath>Upload/geralt.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eq0kj10e4w</Fingerprint>
-      <Integrity>SqgEYIFTNWzlFdG/1wsZR1jO9HUfLBMiNpZnrgmalfs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\geralt.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\2530b2dc-f530-48b8-a2d7-f9f712e2d469geralt.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

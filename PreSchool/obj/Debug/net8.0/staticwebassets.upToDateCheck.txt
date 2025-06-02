@@ -1979,10 +1979,4 @@ wwwroot\Assets\scss\bootstrap\scss\mixins\_utilities.scss
 wwwroot\Assets\scss\bootstrap\scss\mixins\_visually-hidden.scss
 wwwroot\Assets\scss\bootstrap\scss\utilities\_api.scss
 wwwroot\Assets\scss\bootstrap\scss\vendor\_rfs.scss
-wwwroot\Upload\18448300-90d7-4e87-a0e4-57ed233f1f54geralt.png
-wwwroot\Upload\39d3f5fd-f1ce-47b6-ab32-5c294c1f1bfcgeralt.png
-wwwroot\Upload\4d63c553-a690-415d-856d-6d00ff169f1egeralt.png
-wwwroot\Upload\5aed709f-e5b2-4187-97b3-c40b1106cbd0geralt.png
-wwwroot\Upload\dd0a4e3f-7846-426c-abba-d7cab5ddeec4geralt.png
-wwwroot\Upload\f1f35aff-06ce-49bd-90f6-d1089939a3c9geralt.png
-wwwroot\Upload\geralt.png
+wwwroot\Upload\2530b2dc-f530-48b8-a2d7-f9f712e2d469geralt.png
